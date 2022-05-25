@@ -1,0 +1,20 @@
+Pesquisa:
+	W3Schools - https://www.w3schools.com
+	
+Ferramentas:
+Repositórios:
+	GitHub - https://github.com/
+Conversão de CSS:
+	Autoprefixer CSS online - https://autoprefixer.github.io/
+Ferramentas diversas:
+	4Devs - https://www.4devs.com.br
+
+Fontes:
+	Google Fonts - https://fonts.google.com/
+	Artisan Themes - https://artisanthemes.io/best-google-fonts-combinations-modern-agency-website/
+	Reliable - Collection of Google Font Pairings - https://heyreliable.com/ultimate-google-font-pairings/
+	Garett - Google Fonts Combinarions - https://www.garett.co/21-google-fonts-combinations-for-websites-brands
+	
+Exercícios:
+	Frontend Mentor - https://www.frontendmentor.io/home
+
