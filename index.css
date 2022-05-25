@@ -1,8 +1,15 @@
-.titulo {
+h1, h2, h3, h4, h5 {
     font-family: 'Crimson Text', serif;
 }
 
-.corpo {
+a {
     font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+    color: black
 }
 
+a:hover {
+    color: red;
+    font-size: 150%;
+}
